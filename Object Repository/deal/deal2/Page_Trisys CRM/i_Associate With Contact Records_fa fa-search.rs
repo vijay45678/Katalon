@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Associate With Contact Records_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>2b3507e9-8d1f-448a-a0c9-0c7cb8195598</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contacts']/div/div/div[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#contacts > div.panel-body > div.row > div.form-group.form-group-header.col-lg-3.col-md-3.col-sm-3.col-xs-3 > button.btn.btn-default.btng-right > i.fa.fa-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>281dfd8a-8145-4026-9e4f-5e4aefd897ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>1fef18a7-3c39-40b1-87ed-acd7ff9eca06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contacts&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group form-group-header col-lg-3 col-md-3 col-sm-3 col-xs-3&quot;]/button[@class=&quot;btn btn-default btng-right&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>d44c7779-c089-4336-a050-064bf0ba24f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contacts']/div/div/div[2]/button/i</value>
+      <webElementGuid>d5c91f88-5857-48c1-bb3b-5d9cc6097de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/div/div/div/div/div[2]/button/i</value>
+      <webElementGuid>be6ada9f-a83f-4977-88b4-8afdab559ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
