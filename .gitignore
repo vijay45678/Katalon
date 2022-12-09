@@ -13,4 +13,13 @@ build
 
 .classpath
 
+<<<<<<< HEAD
 .project
+=======
+.project
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+>>>>>>> branch 'master' of https://github.com/vijay45678/Katalon.git

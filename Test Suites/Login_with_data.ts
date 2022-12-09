@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login_with_data</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1cdfd6e3-ec3e-4aa4-b6e3-c737aff7b9a9</testSuiteGuid>
+   <testCaseLink>
+      <guid>3c551ac9-4798-426e-a53e-c75ebe4b240f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CRM-Quotation/login_with_data</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>86c6597c-1910-48e0-9a5e-0b159e6b5ff8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>86c6597c-1910-48e0-9a5e-0b159e6b5ff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>da35a8f6-4dcb-4e38-a0c5-2b0326683ba8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>86c6597c-1910-48e0-9a5e-0b159e6b5ff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>102bf77c-1612-4ec3-afb6-f81cd62dea6a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
