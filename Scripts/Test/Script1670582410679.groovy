@@ -23,11 +23,11 @@ WebUI.navigateToUrl('https://trisyspos:9o$TRstr@apps.trisysit.com/pos/login')
 
 WebUI.click(findTestObject('Object Repository/Login/Page_trisys POS  Login/html_trisys POS  Login Smartphones (portrai_902e14'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_trisys POS  Login/input_Username_username'), findTestData('Test Data').getValue(1, 1))
+WebUI.setText(findTestObject('Object Repository/Login/Page_trisys POS  Login/input_Username_username'), findTestData('Login').getValue(1, 1))
 
 WebUI.click(findTestObject('Object Repository/Login/Page_trisys POS  Login/html_trisys POS  Login Smartphones (portrai_902e14'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_trisys POS  Login/input_Password_password'),findTestData('Test Data').getValue(2, 1))
+WebUI.setText(findTestObject('Object Repository/Login/Page_trisys POS  Login/input_Password_password'),findTestData('Login').getValue(2, 1))
 
 WebUI.click(findTestObject('Object Repository/Login/Page_trisys POS  Login/button_Sign In'))
 
