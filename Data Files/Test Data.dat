@@ -4,11 +4,11 @@
    <name>Test Data</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
-   <csvSeperator></csvSeperator>
-   <dataFileGUID>7142aa42-2536-424d-9a81-0e107172ab6e</dataFileGUID>
-   <dataSourceUrl>/home/trisys/Documents/data.xlsx</dataSourceUrl>
-   <driver>ExcelFile</driver>
-   <isInternalPath>true</isInternalPath>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>612d6933-9a55-4045-b8a1-b8548c5feba1</dataFileGUID>
+   <dataSourceUrl>/home/trisys/git/Katalon2/New Text Document.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
